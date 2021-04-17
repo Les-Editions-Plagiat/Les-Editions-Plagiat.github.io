@@ -57,7 +57,7 @@ img {
 }
 
 html {
-  font-family:"CORBEL";
+  @font-family:"CORBEL";
 	src:"CORBEL.ttf";
 	text-indent: 0;
 	color: black;
@@ -114,6 +114,3 @@ html {
   font-size: 12px;
   padding: 15px;
 }
-
-
-</style>
