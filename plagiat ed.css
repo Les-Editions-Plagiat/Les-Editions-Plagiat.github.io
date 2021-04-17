@@ -56,8 +56,8 @@ img {
   .col-12 {width: 100%;}
 }
 
-html {
-  @font-family:"CORBEL";
+ @font-family {
+       font-family:"CORBEL";
 	src:"CORBEL.ttf";
 	text-indent: 0;
 	color: black;
