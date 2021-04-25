@@ -98,13 +98,9 @@ html {
 
 
 
-.aside {
- 
-  padding: 15px;
-  
-  text-align: center;
-  
-  
+.aside { 
+  padding: 15px; 
+  text-align: center; 
 }
 
 .footer {
@@ -115,3 +111,7 @@ html {
   padding: 15px;
 }
 
+p{
+text-align: justify;
+top  
+}
