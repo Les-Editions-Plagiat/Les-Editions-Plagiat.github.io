@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Editions Plagiat entretien Mamoste</title>  
+<link rel="icon" type="image/png" href="https://drive.google.com/uc?id=11_JqLV3wsDoN5-96gJaSiUH8RTY8el4p" />
+<meta name="description" content="Maison d’édition indépendante - bande dessinée, littérature, histoire, politique, actualité. BD, Roman Graphique, Lecture en ligne." />
+<link rel="stylesheet" href="plagiat_ed_BD.css" />
+</head>
+<body>
+
+
+    <div class="header">
+	    <table >
+            <tr>
+	                <td width="210" height="175" id="logo">
+			         <a id="logoHome" rel="start home" href="index.html">
+				    <img src="image_site/plagiat_editions.jpg" alt="Plagiat Editions"  />
+			</a>   
+			        </td>
+				
+					
+	                <td width="900" height="175" id="entete">
+					<a id="entetebd" rel="debutbd">
+				<img src="image_site/giletjaunes.jpg" alt="Plagiat Editions entête" />
+			</a>
+			<figcaption><span><cite>Il faut des jeunes Français qui aient envie de devenir milliardaires.</cite> Macron<span></figcaption>
+			        </td>
+		    </tr>
+		</table >	
+    </div>
+
+
+
+
+
+
+<div class="menus">
+  <div class="col-3 col-s-5 menu">
+    	   <ul id="Menu">
+	            <span><h3><b>Menu</b></h3></span>
+				
+				<br>
+		             <li><a href="plagiat_ed_articles.html"><span>Articles</span></a></li>
+					
+					<li><a href="plagiat_ed_BD.html"><span>Bandes Dessinées</span></a></li>
+					
+					<li><a href="plagiat_ed_corpus.html"><span>Corpus</span></a></li>
+					
+					<li><a href="plagiat_ed_socle_théorique.html"><span>Socle théorique</span></a></li>
+	
+	            <br>    
+				
+	          <span><h3><b>A propos</b></h3></span>
+			  
+			  <br>
+
+            
+			<li><a href="plagiat_ed_contacts.html"><span>Contacts</span></a></li>
+            
+			<li><a href="plagiat_ed_liens.html"><span>Liens</span></a></li>	
+
+			<li><a href="plagiat_ed_boutique.html"><span>Boutique</span></a></li>
+			
+			<li><a href="plagiat_ed_index.html"><span>Index et Catalogue</span></a></li>		
+
+        </ul>
+  </div>
+
+  <div class="col-6 col-s-9">
+    
+	<table>
+                    <tr>
+			          
+	                    <td width="500" id="titre"><span><h4>Entretien avec Mamoste Dîn,
+				</h4>à propos de <i>Ne pas mourir comme des chiens</i>.
+			<br><h5>Réalisé par Yeni Özgür Politika et Kurdistan au féminin
+			</h5><span>    
+	         
+            <br>
+				</td>
+		            </tr>
+					
+					<tr>
+	                    <td width="500" id="article">
+					<h5><br><a href="plagiat_ed_BD_entretien-Mamoste.html" title="cliquer"> version française</h5> version turque </h5><span>
+
+<p><span>
+Okurlarımız için öncelikle kendinizi tanıtabilir misiniz?
+<br> 
+<i>
+Genç bir çizgi roman yazarı ve çizerim, Fransızım. Şu an Mamoste Dîn ismiyle çalışıyorum. Mamoste Dîn Kürtçe, “deli hoca, deli öğretmen” anlamına geliyormuş. Bu ismi bana, Lavrion kampında çizim ve gravürler yaptırdığım insanlar verdi.</i><span></p>
+<p><span>Kürt hareketiyle nasıl tanıştınız?
+<br><i>Tarih okumalarıyla. Yani, 1936 İspanya savaşı, İRA, Zapatistalar, Sitüasyonist Enternasyonal, gerillalar ve tarihi devrimci hareketler hakkında nasıl araştırmalar yaptıysam öyle tanıştım. Bir politik bilince sahip olmak istiyorsak bu referanslara sahip olmamız gerekiyor. İçinde bulunduğumuz toplumu anlayabilmek ve stratejik bir bakış açısı edinebilmek için farklı antikapitalist, antifaşist ve devrimci hareketleri tanımamız gerekiyor.
+</i><span></p>
+<p><span>Lavrion’daki mülteciler kampına gitmeye ve bir çizgi roman hazırlamaya nasıl karar verdiniz?
+<br><i>
+Lavrion kampından, çok eskiden beri tanıdığım bir dostum, yoldaşım sayesinde haberdar oldum. Kendisi coğrafyacı ve master tezini bu kamp üzerine yapmıştı. Yaptığım işleri, çizimlerimi ve politik bakışımı bilen bir arkadaş. Kampı çizmem ve oranın üzerine çalışmam için kendisiyle gitmemi önerdi.
+<br>
+– Les premiers mots qu’on m’a appris à dire en kurde, par exemple, et ce grâce à un responsable du camp, étaient : Tu es fou/folle ! Où est le docteur ?<br>
+
+Après avoir bien répété ces phrases dans ma tête, et bien sûr, très fière de moi, je me suis précipitée vers la première personne que j’ai croisé pour appliquer mes nouvelles connaissances. Et à partir de ce moment, c’est moi que tout le monde a appelé « la professeure folle ». Professeure parce que je faisais l’atelier de gravure. Et folle parce que c’était mes premiers mots !
+
+<br>C’est d’ailleurs assez compliqué de répondre, car en fait il y tant d’anecdotes, et je ne sais lesquelles sont les plus intéressantes à raconter…<br>
+
+Il y avait toujours ces heures pendant lesquelles, deux par deux, côte à côte, et parfois sans se parler, juste en fumant, des gens du camp faisaient des tours dans la cour, toujours de manière régulière. Les différents duos ne se parlaient pas entre eux. C’était une habitude de prison dont ils n’avaient pas pu se défaire.
+
+A Lavrio tout le monde fumait des cigarettes et buvait du thé en permanence. Et le premier qui commençait à fumer proposait toujours à tous ses camarades de tablée ou de balade une cigarette. Il en allait de même pour le thé, si bien que tout le monde finissait par sentir cette odeur de plante, de sucre et de fumée.
+</i><span></p>
+<p><span>Quel effet vous a laissé le camp, quelles traces gardez vous de cette expérience ?
+<br><i>
+Beaucoup de choses, en premier lieu des amis. Enfin après c’est peut-être abstrait de parler d’amitié, quand les liens ne se font plus que par mails plus ou moins réguliers, mais je suis toujours contente quand les gens me demandent de dessiner des portraits de leurs familles, de leurs amours et même parfois des souvenirs. C’est agréable d’avoir des nouvelles et de ne pas se perdre de vue.
+<br> 
+Ensuite, je ne pense pas que les références politiques et les idées révolutionnaires soient exactement les mêmes en France et au Kurdistan.
+<br>
+Il y a pas mal de différences, qu’elles soient liées à l’histoire du PKK ou non. Par exemple le confédéralisme démocratique, qui naturellement n’est pas une théorie importante en France dans les groupes radicaux. Ou encore le rapport au culte de la personnalité, et toute l’imagerie communiste présente dans le camp qui en découle, qui en France est source de méfiance : les portraits énormes, sur fond rouge, qu’ils soient de Staline, de Marx ou encore d’Ocalan ne portent pas la même histoire.
+<br>
+Toutefois il est indéniable que la vie politique, l’organisation du camp à laquelle prennent part les gens, le système d’assemblées, le pouvoir concret des habitants sur leur vie, sont des choses qui doivent être l’objectif à atteindre en France pour les groupes radicaux sérieux, des choses qu’ont d’ailleurs essayé de mettre en place les gilets jaunes, à des échelles locales.
+Après, on ne peut pas encore parler en France d’une organisation stratégique révolutionnaire, les gilets jaunes, et les gauchistes radicaux plus ou moins cohérents ne sont ni armés ni organisés actuellement pour agir de manière aussi conséquente et radicale que le PKK.
+</i><span></p>
+<p><span>Dans la bande dessinée il y a un parallèle créée entre la lutte des kurdes et le mouvement des Gilets Jaunes, pourriez vous développer cela ?
+<br><i>
+J’ai participé pendant toute l’année 2019 à la plupart des actes des gilets jaunes, j’ai commencé à l’acte 2, et ce fut une année extrêmement plaisante et intéressante. Je ne savais par contre pas avec quelle ampleur les gilets jaunes s’étaient exportés à travers le monde ! Si bien que, lors de mon arrivée au camp, quand certains ont appris mes déboires en garde à vue, ou au tribunal, ils ont tenu à me montrer leurs gilets jaunes customisés avec des drapeaux et des figures kurdes. C’était quelque chose pour moi d’incroyable, que des gens qui se sont enfuis de leurs pays, qui ont été torturés, emprisonnés, condamnés pendant des années, qui ont perdu des proches et qui ont combattu Daech se revendiquent gilets jaunes avec fierté. J’avais l’impression d’être loin derrière avec nos quelques émeutes en France.
+<br>
+Mais au fond, il est évident que ces luttes se rejoignent dans leurs revendications, et dans la criminalisation créée en réaction par nos état capitalistes (néanmoins bien moins violente en France). Et c’est pour une raison très simple, c’est parce que tous ces pays sont capitalistes et libéraux. Tous ces pays plus ou moins violents avec leur population, plus ou moins racistes, homophobes, patriarcaux, sont des pays qui fonctionnent sur les mêmes bases économiques et politiques. La France comme la Turquie exploite sa population, l’aliène, dépossède les individus de leur liberté et de tout pouvoir sur l’organisation de leur vie.
+</i><span></p>
+<p><span>Avez-vous pu échanger avec les femmes kurdes de Lavrio ? Si oui, qu’est-ce que vous pouvez dire au sujet de ces femmes qui portent à la fois le difficile fardeau de réfugié et de femme ?
+<br><i>
+Oui, j’ai échangé avec des femmes kurdes. Il est indéniable qu’être une femme complique énormément les choses surtout dans une situation d’illégalité. Quand je suis allée dans le camp, la majorité des femmes présentes étaient arrivées avec leur famille. Dans ces conditions matérielles difficiles, il est compliqué de participer à la vie du camp, politiquement je l’entends. Et bien que l’assemblée des femmes ait un droit de véto sur toutes les décisions prises dans le camp, cela a moins de valeur si ces mêmes femmes n’ont pas autant de temps pour réfléchir à l’organisation politique. Même si les enfants sont pris en charge par tout le monde et que les parents n’ont pas à douter de l’entraide qu’ils vont recevoir dans le camp, ces enfants restent une charge supplémentaire, et beaucoup travaillent à l’extérieur du camp. Aucune femme n’a donc eu le temps de participer à l’atelier de gravure par exemple. Et je ne parle même pas d’être une femme enceinte. Le temps de notre visite, nous partagions une chambre avec une femme dans cette situation qui avait été dublinée en Allemagne alors que son mari, lui, avait pu rester. Elle était seule et réfugiée. Heureusement que là encore tout le monde fait preuve de solidarité, grâce à cela les femmes de la chambre d’à côté lui préparaient toujours à manger et l’aidaient.
+Mais le camp de Lavrio, parmi tous les camps de réfugiés que j’ai vu, ou les lieux illégaux mixtes d’occupation, est exemplaire, c’est peut-être même le seul où être une femme n’y présente aucun danger.
+<br>
+Le rapport de la rue, de la police et de la justice aux femmes est toujours violent et sexiste. Dans la bande dessinée, tout un chapitre qui s’appelle « Les femmes » est d’ailleurs dédié à un procès populaire féminin qui a eu lieu dans un autre camp suite à des attouchements. Il se conclut comme ceci : « Les femmes savent que porter plainte est inutile, qu’elles ne seront jamais entendues par la justice, d’autant plus dans cette situation. Et quand bien même elles le seraient, il est évident qu’aller demander à la justice, à la police et aux magistrats de régler le problème serait dangereux pour tout le monde. Les juges envoient des gens en prison, les juges qui au fond n’ont aucune connaissance concrète de ce qu’est une prison, de ce qu’est la misère, de ce qu’est l’illégalité. »
+</i><span></p>
+<p><span>Outre un témoignage à travers votre art, quel message espérez-vous que cet oeuvre apporte aux lecteurs ?
+<br><i>J’aimerais idéalement créer une conscience politique et une volonté d’action chez les lecteurs. Une conscience que tout le monde est concerné par le combat révolutionnaire, et surtout que ce combat est nécessaire en France aussi. L’exploitation, l’aliénation, ces farces que sont la justice et la politique actuellement, ne concernent pas que la Turquie ou des pays lointains mais bien tout le monde.
+</i><span></p>
+<p><span>Auriez vous quelque chose à ajouter pour nos lecteurs et lectrices ?
+<br><i>j’espère que la lecture leur plaira bien sûr !
+</i><span></p>
+
+<h5><span>Disponible aussi sur : <a href="https://www.ozgurpolitika.com/haberi-cizgilerle-multecilik-145673" title="cliquer"> Yeni Özgür Politika et <a href="https://kurdistan-au-feminin.fr/2020/04/27/femme-et-refugiee-difficile-fardeau-des-femmes-kurdes-de-lavrio/" title="cliquer"> Kurdistan au féminin.</h5><span>
+
+
+			        </td>
+		        </tr>
+			
+	        </table>
+						
+  </div>
+
+  <div class="col-3 col-s-12">
+    <div class="aside">
+
+      <a id="affiche" rel="catalogue/bandesdessinees">
+				 <img src="image_site/Nepasmourircommedeschiens_MamosteDîn.jpg " alt="Ne_pas_mourir_comme_des_chiens_mamoste_din" width="300 " height="auto" />
+				 <img src="image_site/BD-nepasmourircommedeschiens.jpg" alt="Ne_pas_mourir_comme_des_chiens_mamoste_din" width="300" height="auto" /></a>
+				 <img src="image_site/BD-nepasmourircommedeschiens2.jpg" alt="Ne_pas_mourir_comme_des_chiens_mamoste_din" width="300" height="auto" />
+			</a>
+    </div>
+  </div>
+</div>
+
+
+
+</body>
+</html>
