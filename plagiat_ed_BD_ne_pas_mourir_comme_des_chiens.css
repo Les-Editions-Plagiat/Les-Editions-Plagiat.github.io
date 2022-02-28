@@ -96,8 +96,6 @@ html {
   color: white;
 }
 
-
-
 .aside { 
   padding: 15px; 
   text-align: center; 
@@ -109,4 +107,8 @@ html {
   text-align: center;
   font-size: 12px;
   padding: 15px;
+}
+ p{
+text-align: justify;
+top  
 }
