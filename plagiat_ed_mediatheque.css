@@ -87,18 +87,16 @@ html {
 	  
 }
 
-td{   border: 1px solid;
-	color: white;
+td{   
+	
 	vertical-align : top }
 
 .table{
-	   padding: 2px;
-    border: 1px solid;
-	color: white
+	   padding: 15px;
+
 }
 th{
-  border: 1px solid;
-color: white;
+  padding: 2px;
 }
 
 .menu li:hover {
