@@ -87,9 +87,15 @@ html {
 	  
 }
 
-td{ vertical-align : top }
+td{   border: 1px solid;
+	vertical-align : top }
+
 .table{
-	   padding: 2px
+	   padding: 2px;
+    border: 1px solid
+}
+th{
+  border: 1px solid;
 }
 
 .menu li:hover {
@@ -110,4 +116,9 @@ td{ vertical-align : top }
   color: white;
   font-size: 12px;
   padding: 15px;
+}
+
+ p{
+text-align: justify;
+top  
 }
