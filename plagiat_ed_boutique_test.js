@@ -1,6 +1,3 @@
-paypal.Buttons().render('#paypal-button-container')
-
-
 const { CLIENT_ID, APP_SECRET } = process.env;
 
 const baseURL = {
