@@ -1,6 +1,4 @@
-// For a fully working example, please see:
-
-// https://github.com/paypal-examples/docs-examples/tree/main/standard-integration
+paypal.Buttons().render('#paypal-button-container')
 
 
 const { CLIENT_ID, APP_SECRET } = process.env;
