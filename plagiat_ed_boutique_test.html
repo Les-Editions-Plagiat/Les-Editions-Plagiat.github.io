@@ -1,166 +1,119 @@
 <!DOCTYPE html>
+
 <html>
-<head>
-<title>Plagiat Edition boutique</title>  
-<link rel="icon" type="image/png" href="https://drive.google.com/uc?id=11_JqLV3wsDoN5-96gJaSiUH8RTY8el4p" />
-<meta name="description" content="Maison d’édition indépendante - bande dessinée, littérature, histoire, politique, actualité. Boutique : Ne pas mourir comme des chiens, de Mamoste dîn " />
-<link rel="stylesheet" href="plagiat_ed_boutique_test.css" />
-</head>
-<body>
 
+  <head>
 
-    <div class="header">
-	    <table >
-            <tr>
-	                <td width="210" height="175" id="logo">
-			         <a id="logoHome" rel="start home" href="index.html">
-				   <img src="image_site/plagiat_editions.jpg" alt="Plagiat Editions"  />
-			</a>   
-			        </td>
-				
-					
-	                <td width="900" height="175" id="entete">
-					<a id="boutique" rel="elephant">
-				<img src="image_site/entêteboutique.jpg" alt="Plagiat Editions entête" width="900" height="167" />
-			</a>
-			<figcaption><span><cite></cite><span></figcaption>
-			        </td>
-		    </tr>
-		</table >	
-    </div>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  </head>
 
+  <body>
 
+    <!-- Replace "test" with your own sandbox Business account app client ID -->
 
+    <script src="https://www.paypal.com/sdk/js?client-id=test&currency=USD"></script>
 
+    <!-- Set up a container element for the button -->
 
-<div class="menus">
-  <div class="col-3 col-s-5 menu">
-    	   <ul id="Menu">
-	            <span><h3><b>Menu</b></h3></span>
-				
-				<br>
-					<li><a href="plagiat_ed_BD.html"><span>Bandes Dessinées</span></a></li>
-					
-					<li><a href="plagiat_ed_corpus.html"><span>Ecrits</span></a></li>
-           
-         				<li><a href="plagiat_ed_mediatheque.html"><span>Médiathèque</span></a></li>
-		  			
-		   			<li><a href="plagiat_ed_miscellanées.html"><span>Miscellanées</span></a></li>
-					
-					<li><a href="plagiat_ed_socle_théorique.html"><span>Socle théorique</span></a></li>
-	
-	            <br>    
-				
-	          <span><h3><b>A propos</b></h3></span>
-			  
-			  <br>
+    <div id="paypal-button-container"></div>
 
-            
-			<li><a href="plagiat_ed_contacts.html"><span>Contacts</span></a></li>
-            
-			<li><a href="plagiat_ed_liens.html"><span>Liens</span></a></li>	
+    <script>
 
-			<li><a href="plagiat_ed_boutique.html"><span>Boutique</span></a></li>
-			
-			<li><a href="plagiat_ed_index.html"><span>Index</span></a></li>				
+      paypal.Buttons({
 
-        </ul>
-  </div>
+        // Order is created on the server and the order id is returned
 
+        createOrder() {
 
+          return fetch("/my-server/create-paypal-order", {
 
+            method: "POST",
 
-  <div class="col-6 col-s-9">
-    <table >
-	
-	
-	<br>
-	<br>
-			<p><span>La boutique existe pour les produits imprimés de nos éditions, pour celles et ceux qui préféreraient un format 
-			papier au format numérique disponible en libre accès sur notre site.
-			<br>Lecture en ligne disponible selon le genre dans les différentes catégories du&#8239;Menu<span></p>   
-				<br><cite id="resume"><span>Les luttes se croisent et se ressemblent, comme celles des
-Kurdes et des gilets jaunes. Le même combat pour la liberté
-et l'égalité sociale rencontre la même répression.
-La dessinatrice Mamoste Dîn nous fait découvrir le camp
-autogéré d'exilés kurdes de Lavrio en Grèce. Dans un subtil
-va-et-vient entre la Grèce et la France, entre les histoires
-personnelles et les combats politiques des activistes kurdes
-et de la jeune Judith, venue documenter leur quotidien, nous
-partageons un moment de la vie du camp et apprenons à
-				connaître et à aimer ses habitants.</cite><span>
-            <br>
-			    <tr>
-			        <td width="250" id="imagesdesbd"><br>
-			            <img src="image_site/Nepasmourircommedeschiens_MamosteDîn.jpg " alt="Ne_pas_mourir_comme_des_chiens_mamoste_din" width="300" height="auto" /></a>
-			        </td>
-				    <td width="350" id="imagesdesbd"><br>
-			            <img src="image_site/IMG_8383.jpg" alt="Ne_pas_mourir_comme_des_chiens_mamoste_din" width="300" height="auto" /></a>
-			        </td>
-				
-					
-	               
-	                
-		        </tr>
-				<tr>
-				
-				<td width="250" id="textesdesbd">
-					<p><span><i>Ne pas mourir comme des chiens</i><span></p>
-					<p><span>de Mamoste Dîn<span></p>
-					<p><span>Achevé d'imprimer en mars 2021 à Venise</p>
-					<p><span><b>prix 12 euros</b>, sans frais de port<span></p>
-					
-				
-			        </td>
-					
-					<td width="250" id="textesdesbd">
-					<p><span>Editions Plagiat<span></p>
-					<p><span>ISBN : 978-2-492221-01-9<span></p>
-					<p><span>Format A5, couverture cartonnée avec rabats</p>
-					<p><span>104 pages couleurs<span></p>
-					
-				
-			        </td>
-					
-					<td width="250" id="textesdesbd">
-					<p><span>Type de paiement :<span></p>
-					<a href="plagiat_ed_virement.html">
-					<p><span><b>Virement</b></p><span>
-					<p style="color:purple"><span>ou <b>Paypal</b> + 2 euros de livraison</p><span>
-					<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-					<input type="hidden" name="cmd" value="_s-xclick">
-					<input type="hidden" name="hosted_button_id" value="S7PJPV3PB3J62">
-					<input type="image" src="https://www.paypalobjects.com/fr_FR/FR/i/btn/btn_buynow_SM.gif" border="0" name="submit" alt="PayPal, le réflexe sécurité pour payer en ligne">
-					<img alt="" border="0" src="https://www.paypalobjects.com/fr_FR/i/scr/pixel.gif" width="1" height="1"></form>
-					
-						
-					
-					
-				
-					
-				
-			        </td>
-					
-				</tr>	
-			
-	        </table>
-						
-						<p><span> PS : Nous n'avons pour l'instant trouvé de meilleurs solutions que paypal pour la vente en ligne.
-							En passant par Paypal vous serez obligé d'y créer un compte, comme sur n'importe quelle boutique en ligne. 
-							Ne pas vous inquiéter s'il y a un temps de latence, c'est normal. Nous vous garantissons son bon fonctionnement</p><span>
-  </div>
+            headers: {
 
-  <div class="col-3 col-s-12">
-    <div class="aside">
-      <a id="affiche" rel="catalogue/essais">
-				<img src="image_site/affichemarchand.jpg" alt="affichemarchand" width="300" height="auto" />
-			</a>
-    </div>
-  </div>
-</div>
+              "Content-Type": "application/json",
 
+            },
 
+            // use the "body" param to optionally pass additional order information
 
-</body>
+            // like product skus and quantities
+
+            body: JSON.stringify({
+
+              cart: [
+
+                {
+
+                  sku: "YOUR_PRODUCT_STOCK_KEEPING_UNIT",
+
+                  quantity: "YOUR_PRODUCT_QUANTITY",
+
+                },
+
+              ],
+
+            }),
+
+          })
+
+          .then((response) => response.json())
+
+          .then((order) => order.id);
+
+        },
+
+        // Finalize the transaction on the server after payer approval
+
+        onApprove(data) {
+
+          return fetch("/my-server/capture-paypal-order", {
+
+            method: "POST",
+
+            headers: {
+
+              "Content-Type": "application/json",
+
+            },
+
+            body: JSON.stringify({
+
+              orderID: data.orderID
+
+            })
+
+          })
+
+          .then((response) => response.json())
+
+          .then((orderData) => {
+
+            // Successful capture! For dev/demo purposes:
+
+            console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+
+            const transaction = orderData.purchase_units[0].payments.captures[0];
+
+            alert(`Transaction ${transaction.status}: ${transaction.id}\n\nSee console for all available details`);
+
+            // When ready to go live, remove the alert and show a success message within this page. For example:
+
+            // const element = document.getElementById('paypal-button-container');
+
+            // element.innerHTML = '<h3>Thank you for your payment!</h3>';
+
+            // Or go to another URL:  window.location.href = 'thank_you.html';
+
+          });
+
+        }
+
+      }).render('#paypal-button-container');
+
+    </script>
+
+  </body>
+
 </html>
