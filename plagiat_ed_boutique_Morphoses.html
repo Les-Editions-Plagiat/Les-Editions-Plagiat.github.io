@@ -120,13 +120,21 @@ véritable fresque humaine, riche et colorée, pleine de rêve, de poésie et d�
 
 					<p><span>Type de paiement :<span></p>
 					<p style="color:purple"><span>Achat en ligne</b></p><span>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-  <input type="hidden" name="cmd" value="_s-xclick" />
-  <input type="hidden" name="hosted_button_id" value="VYXZ3FSCRC8MN" />
-  <input type="hidden" name="currency_code" value="EUR" />
-  <input type="image" src="https://www.paypalobjects.com/fr_FR/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" title="PayPal, votre réflexe sécurité pour payer en ligne." alt="Acheter" />
-</form>
 
+<script src="https://www.paypal.com/sdk/js?client-id=BAAIpCcA1iHCwHqf35n21EHZIMmNtD6q2w2bkXC8TIDj_XSVIoTR3x8V6VHF5TjE52xTVyKthr2b2p_OLE&components=hosted-buttons&disable-funding=venmo&currency=EUR"></script>
+
+<div id="paypal-container-BEG55ZFK8FB7J"></div>
+
+<script>
+
+  paypal.HostedButtons({
+
+    hostedButtonId: "BEG55ZFK8FB7J",
+
+  }).render("#paypal-container-BEG55ZFK8FB7J")
+
+</script>
+						
 							
  </div>
 
